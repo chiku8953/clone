@@ -1,2 +1,2 @@
 # clone
-my resume from complete web development course
+my clone from complete web development course
